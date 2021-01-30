@@ -1,0 +1,45 @@
+
+
+.h3{
+    font-size: 30px !important;
+    border:3px solid grey;
+}
+
+.object_name{
+    width:700px;
+    height:100px;
+    border: 3px solid coral;
+}
+
+#div1{
+    margin-top: 200px;
+    width:400px;
+    height: 500px;
+    border: 3px solid fuchsia;
+}
+
+.object_name1{
+    width:700px;
+    height:100px;
+    border: 3px solid coral;
+    margin-bottom: 10px;
+}
+
+#h2{
+    color: cornsilk;
+}
+
+
+.button{
+    background-color: lightseagreen;
+    border: 2.5px dotted  chocolate;
+    font-size: 20px !important;
+}
+
+#div2{
+    margin-top: 200px;
+    width:400px;
+    height: 500px;
+    border: 3px solid fuchsia;
+}
+
